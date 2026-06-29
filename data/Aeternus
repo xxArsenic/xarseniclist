@@ -1,0 +1,18 @@
+{
+    "id": "102647436",
+    "name": "Aeternus",
+    "author": "Riot",
+    "creators": ["Riot", "Ryamu", "IcEDcaVe],
+    "verifier": "Nobody",
+    "verification": "https://youtu.be/5SAR5kixry8",
+    "percentToQualify": 8,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "VERTEP",
+            "link": "https://youtu.be/5SAR5kixry8",
+            "percent": 19,
+            "hz": 120
+        }
+    ]
+}
